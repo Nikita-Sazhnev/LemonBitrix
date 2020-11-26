@@ -1,0 +1,8 @@
+<?
+$sSectionName = "Рецепты";
+$arDirProperties = Array(
+
+);
+?>
+
+

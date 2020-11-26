@@ -1,0 +1,1 @@
+<img class="ml-md-4" src="<?=SITE_TEMPLATE_PATH?>/img/Lemon Logo small.png" alt="">

@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Recipes", 
+		"/recipes/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Photo Gallery", 
+		"/photo-gallery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Videos", 
+		"/videos/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"All Categories", 
+		"/all-categories/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
